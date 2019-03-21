@@ -1,5 +1,5 @@
 # Battle-of-Neighborhoods
-Battle of Neighborhoods
+
 This is my project Battle of Neighborhoods in which I used the Foursquare location data to analyze the neighborhoods of four different cities New York, Toronto, Beijing and Shanghai. These cities are the economic or political center of the countries. I wish to find similar neighborhoods among these cities and provide some useful information for people who are considering moving among Canada, USA and China.
 
 It includes the neighborhood names I extracted online:
