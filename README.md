@@ -31,6 +31,6 @@ My full analysis for New York, Toronto, Beijing and Shanghai:
 My final report:
     1. Capstone_report.pdf
     
-My blog post: https://lolokikikikikiki.blogspot.com/2018/12/the-battle-of-neighborhoods.html
+My blog post: https://biqiongyu.blogspot.com/2018/12/the-battle-of-neighborhoods.html
 
 
